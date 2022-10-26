@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# centerpoint
-A project for 3d object detection
-=======
-This is centerpoint code repo.
->>>>>>> master
+# MM3D 
+This a 3D object detection project borrow from https://github.com/open-mmlab/mmdetection3d
